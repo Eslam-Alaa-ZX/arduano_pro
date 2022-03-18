@@ -133,7 +133,7 @@ void loop() {
     //myservo.write(0);
     //digitalWrite (blueLed,HIGH);
     //delay(1000);
-    buzz();
+    //buzz();
     digitalWrite(blueLed,LOW);
 
     }
