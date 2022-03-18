@@ -55,7 +55,7 @@ void loop() {
     delay(100);                       // waits 15ms for the servo to reach the position
   }*/
 
-  
+  serv.write(0); 
   digitalWrite(greenLed,HIGH);
   
     //delay(3000);
